@@ -1,0 +1,31 @@
+<AssetPackage Name="techniv-airport-lfbr-muret" ReleaseNotes="PackageDefinitions\techniv-airport-lfbr-muret\ReleaseNotes.xml" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>LFBR - Muret Lherm</Title>
+		<Manufacturer/>
+		<Creator>Techniv</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\techniv-lfbr\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\techniv-lfbr\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>airport\</AssetDir>
+			<OutputDir>Scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

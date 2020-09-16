@@ -1,0 +1,8 @@
+<Project Version="2" Name="LFBR" FolderName="Packages">
+	<OutputDirectory>output</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\techniv-airport-lfbr-muret.xml</Package>
+	</Packages>
+</Project>
+
