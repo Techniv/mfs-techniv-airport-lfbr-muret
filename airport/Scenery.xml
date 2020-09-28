@@ -1468,8 +1468,8 @@
 		<Runway lat="43.44915923026806" lon="1.26375368162768" alt="187.72035572677851" heading="117.00000000000000" length="1103.23718261718750" width="29.99999809265137" patternAltitude="304.79998779296875" surface="{E8AB7FF2-9BFF-4C9F-90A1-4AA718D8F2EC}" transparent="FALSE" number="12" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="RIGHT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
 			<Markings edges="FALSE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="TRUE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="LOW"/>
-			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="19.474302" biasZ="386.080353" spacing="0.000000" pitch="5.900000"/>
-			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="22.818459" biasZ="373.972015" spacing="1.000000" pitch="5.500000"/>
+			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="19.474302" biasZ="386.080353" spacing="0.000000" pitch="3.400000"/>
+			<Vasi end="SECONDARY" side="RIGHT" type="PAPI4" biasX="22.818459" biasZ="373.972015" spacing="1.000000" pitch="3.100000"/>
 			<RunwayStart end="PRIMARY" lat="43.45137276356719" lon="1.25778823398316" alt="187.73829523846507" heading="117.00000762939453"/>
 			<RunwayStart end="SECONDARY" lat="43.44696708471522" lon="1.26966382859744" alt="187.74044033419341" heading="297.00000000000000"/>
 		</Runway>
