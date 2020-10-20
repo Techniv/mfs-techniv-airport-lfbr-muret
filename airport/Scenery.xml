@@ -204,7 +204,7 @@
 	<SceneryObject lat="43.45040476637608" lon="1.25860461903404" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{305F1AAC-21F5-4AD5-A118-1561EE060DDE}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject lat="43.44849817290283" lon="1.26775953119957" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="43.44850080686084" lon="1.26775269705519" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="TRUE"/>
 	</SceneryObject>
 	<Airport region="Europe" country="France" city="Lherm" name="Muret Lherms" ident="LFBR" lat="43.44914851282570" lon="1.26379031457905" alt="189.06468043196946" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="TRUE">
@@ -1733,7 +1733,7 @@
 				<Vertex lat="43.44783003079250" lon="1.27009353841690"/>
 				<Vertex lat="43.44776624690053" lon="1.27004906328965"/>
 			</Apron>
-			<Apron surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.821939" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="FALSE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.821939" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="64" green="61" blue="61" alpha="255" override="TRUE"/>
 				<Vertex lat="43.44861483521196" lon="1.26769907357963"/>
 				<Vertex lat="43.44854039600138" lon="1.26790464907322"/>

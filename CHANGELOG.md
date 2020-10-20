@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 - *2020-10-21*
+
+Fix windsock orientation bug
+
 ## 0.1.1 - *2020-09-28*
 
 Fix PAPI slope, runway 30 and 12
