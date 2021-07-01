@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.0 - *2021-07-01*
+
+Fix double windsock
+Fix double tower
+
 ## 0.1.2 - *2020-10-21*
 
 Fix windsock orientation bug
